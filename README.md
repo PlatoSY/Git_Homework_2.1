@@ -40,5 +40,3 @@
   color: red;
 }
 ```
-
-hello
